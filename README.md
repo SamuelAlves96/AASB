@@ -4,7 +4,7 @@ Este trabalho consiste em um programa de análise de sequências de DNA desenvol
 
 ## Explicação do programa
 
-O trabalho está dividido em dois ficheiros (engineSeq e shellSeq).
+O trabalho está dividido em dois ficheiros (engineSeq e shellSeq), sendo complementados pelos restantes ficheiros.
 
 O engineSeq é composto por cinco classes:
 
