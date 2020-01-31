@@ -17,3 +17,15 @@ O engineSeq é composto por cinco classes:
 * ```SeqAA``` valida a sequência inserida (se é ou não de Aminoácidos).
 
 * ```DB```, em que definimos a função de adicionar chaves às sequências, das keys (para nos fornecer informação de quantas chaves existem), do get (para nos dar a informação da sequência com determinada chave), do guardar (para guardar o ficheiro), do serializa (para guardar o ficheiro no pickle, em formato binário), e o deserializa (para ir buscar o ficheiro ao pickle e o retirar de formato binário).
+
+
+
+
+
+
+
+
+Grupo 5:
+Diogo Barbosa  PG30060
+Gil Afonso     PG40851
+Samuel Alves   PG40975
