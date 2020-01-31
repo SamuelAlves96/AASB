@@ -26,6 +26,6 @@ O engineSeq é composto por cinco classes:
 
 
 Grupo 5:
-Diogo Barbosa  PG30060
-Gil Afonso     PG40851
-Samuel Alves   PG40975
+* Diogo Barbosa  PG30060
+* Gil Afonso     PG40851
+* Samuel Alves   PG40975
